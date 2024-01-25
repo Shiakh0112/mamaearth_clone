@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../team project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-card-slider"
+	}
+}
